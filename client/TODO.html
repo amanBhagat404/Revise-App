@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="style.css">
+    <title>TO-DO</title>
+</head>
+<body >
+   <div class="upper-body">
+            <ul>
+                <li><div class="heading2">TO-DO List</div></li>
+                <li> <textarea id="task" rows="3" cols="50" placeholder="write task"></textarea> </li>
+                <li><button  id="save-task-btn"> ADD</button></li>
+            </ul>
+
+   </div>
+   <div class="middle-body">
+        <table id='table-task'>
+            <thead>
+                    <th>S.No.</th>
+                    <th style="width: 500px; ">task</th>
+                    <th style="width: 300px;">Date-Time</th>
+                    <th>delete</th>
+            </thead>
+            <tbody></tbody>
+        </table>      
+   </div>
+   <div class="lower-body">
+        <a href="index.html"><button>HOME</button></a>
+   </div>
+   <script src="task_script.js"></script>
+</body>
+</html>

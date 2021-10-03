@@ -1,0 +1,105 @@
+*{
+    padding: 0%;
+    margin: 0%;
+}
+
+.heading1{
+    font-size: 100px;
+    color: aliceblue;
+}
+.heading2{
+    font-size: 60px;
+    color: aliceblue;
+    padding-bottom: 10px;
+}
+.bg{
+    background-color: cadetblue;
+    height: 450px;
+}
+.second-heading{
+    display: flex;
+    justify-content: center;
+    color: black;
+    padding-top: 20px;
+    font-size: 60px;
+}
+.box{
+    height: 100px;
+    width: 100px;
+    background-color: rgb(155, 146, 156);
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+    font-size: 23px;
+    color: black;
+    margin-left: 50px;
+    margin-right: 50px;
+}
+.box:hover{
+    height: 105px;
+    width: 105px;
+    border: 3px red solid;
+}
+a{
+    text-decoration: none;
+}
+.boxes{
+    padding-top: 80px;
+    display: flex;
+    justify-content: center;
+}
+
+/* DSA */
+.upper-body{
+    background-color: black;
+    height: 300px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+input{
+  height: 30px;
+  width: 373px;
+  font-size: 10pt;
+}
+::placeholder{
+    color: darkgray;
+}
+textarea{
+    resize: none;
+}
+
+li{
+    padding-top: 4px;
+    text-decoration: none;
+}
+
+.lower-body{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 50px;
+    background-color: green;
+}
+
+button:hover{
+    border: 2px red solid;
+}
+
+
+table{
+    width: 80%;;
+    margin: 50px auto;
+    text-align: center;
+    table-layout: fixed;
+    word-wrap: break-word;
+}
+table,th,td{
+    border-collapse: collapse;
+    border: 2px solid rgb(53, 26, 26);
+}
+th,td{
+    padding: 20px;
+}
