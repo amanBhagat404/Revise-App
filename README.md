@@ -3,7 +3,7 @@
 * It is a revise app for students to revise important questions they have saved in the application's database . 
 * It contains two sections one for DSA/CP questions and one for CS fundamental questions 
    ### DSA/CP:
-    * For DSA/CP questions student can directly save the link of the question and add remarks and important points about the question and answer.
+    * For DSA/CP questions student can directly save the link of the question and add remarks and important points about the question and solution.
    ### CS Fundamentals:
     * int this student can decently write the question and remark or answer for the question. 
 * I have added delete option also , if a student wants to remove some question from the applicaton he/she can delete it.
