@@ -7,6 +7,13 @@
    ### CS Fundamentals:
     * int this student can decently write the question and remark or answer for the question. 
 * I have added delete option also , if a student wants to remove some question from the applicaton he/she can delete it.
-* I have also added TO-DO list feature in this app so that a student can keep tarck of what he/she needs to revise or Do.
+* I have also added TO-DO list feature in this app so that a student can keep tarck of what he/she needs to revise or do.
+
+
+##Technology used:
+* I have used node js and Express for backend and HTML,CSS and Javascript for frontend.
+
+##Database :
+* I have used MySQL database for storing and fetching data for the application. 
 
 
