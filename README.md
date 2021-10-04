@@ -10,10 +10,10 @@
 * I have also added TO-DO list feature in this app so that a student can keep tarck of what he/she needs to revise or do.
 
 
-##Technology used:
+## Technology used:
 * I have used node js and Express for backend and HTML,CSS and Javascript for frontend.
 
-##Database :
+## Database :
 * I have used MySQL database for storing and fetching data for the application. 
 
 
