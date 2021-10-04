@@ -13,7 +13,7 @@ app.use(express.urlencoded({ extended: false }));
 //            ---------------  DSA  --------------------
 //create
 app.post('/insertDSA', (request , response) => {
-  console.log("hii");
+//   console.log("hii");
   const { question ,remark } = request.body;
   const db = dbStorage.getDbStorageInstance();
   const result=db.insertDSA(question,remark);
